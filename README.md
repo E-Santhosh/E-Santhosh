@@ -1,6 +1,7 @@
 
 
 Hello there, I'm Santhosh! I am currently completing my Bachelors in Computer Science.
+![](https://komarev.com/ghpvc/?username=E-Santhosh)
 
 ## Currently I'm:
 
