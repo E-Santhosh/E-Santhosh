@@ -9,7 +9,7 @@ I'm a recent graduate in Computer Science and Engineering from Erode Sengunthar 
 
 -   🌱 I’m currently learning Nodejs
 -   💬 Ask me about Web Development
--   📫 How to reach me: dev.santhoshe@gmail.com
+-   📫 How to reach me: derickprince744@gmail.com
 -   😄 Pronouns:He/him
 -   ⚡ Fun fact: My favorite design tool is Photoshop, and I've been using it for 6 years.
 
@@ -49,7 +49,7 @@ I'm a recent graduate in Computer Science and Engineering from Erode Sengunthar 
 
 ## Education
 
--   Bachelor of Engineeering (B.E) in Computer Science and Engineering from Erode Sengunthar Engineering College, 2023 - 8.35%
+-   Bachelor of Engineeering (B.E) in Computer Science and Engineering from Erode Sengunthar Engineering College, 2023 - 8.24%
 -   12th from Sengunthar higher Secondary School,2019 - 59.66%
 -   10th from Sengunthar higher Secondary School,2017 - 78.80%
 
@@ -66,6 +66,6 @@ I'm a recent graduate in Computer Science and Engineering from Erode Sengunthar 
 
 ## Contact
 
--   Email: dev.santhoshe@gmail.com
+-   Email: derickprince744@gmail.com
 -   LinkedIn: https://www.linkedin.com/in/esanthosh/
 -   Twitter: https://twitter.com/santhosh_E_
